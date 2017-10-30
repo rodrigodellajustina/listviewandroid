@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Alunos</string>
+    <string name="hint_busca">Informar o aluno</string>
+    <string name="hint_nome_aluno">Nome do aluno</string>
+</resources>
